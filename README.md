@@ -18,6 +18,11 @@
 <br/>
 
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellona-choi&show_icons=true&theme=radical)
+
+<br/>
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=blue"/></a> &nbsp -->
 
 
