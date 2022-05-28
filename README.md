@@ -8,6 +8,12 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bellona-choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=blue"/></a> &nbsp -->
 
 
