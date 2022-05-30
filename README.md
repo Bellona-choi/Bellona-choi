@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/CSS-4479A1?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-DEB887?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/GitHub-161616?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=JSP&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=JSP&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/XML-161616?style=flat-square&logo=XML&logoColor=white"/></a> &nbsp</p>
 
 ## 💻 Languages 💻
