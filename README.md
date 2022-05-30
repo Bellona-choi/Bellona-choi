@@ -11,11 +11,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/CSS-4479A1?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp<br>
+<img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp <br>
+<img src="https://img.shields.io/badge/CSS-4479A1?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-4479A1?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/GitHub-4479A1?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp</p>
-
+<img src="https://img.shields.io/badge/GitHub-4479A1?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JSP-4479A1?style=flat-square&logo=JSP&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/XML-4479A1?style=flat-square&logo=XML&logoColor=white"/></a> &nbsp</p>
 
 ## 💻 Languages 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bellona-choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
