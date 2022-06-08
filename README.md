@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 mario game : https://bellona-choi.github.io/web/6%EA%B0%95/index.html<br>
-https://bellona-choi.github.io/web/AJAX/exam05.html
+영화 : https://bellona-choi.github.io/web/AJAX/exam05.html
 
 ## 💻 Tech Stacks 💻
 <p align="center">
