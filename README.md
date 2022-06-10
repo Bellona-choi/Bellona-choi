@@ -30,7 +30,7 @@ mario game : https://bellona-choi.github.io/web/6%EA%B0%95/index.html<br>
 <br/>
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=blue"/></a> &nbsp -->
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellona-choi)](https://github.com/Bellona-choi/github-readme-stats)
 
 
 
