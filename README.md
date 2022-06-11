@@ -30,7 +30,7 @@ mario game : https://bellona-choi.github.io/web/6%EA%B0%95/index.html<br>
 <br/>
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=blue"/></a> &nbsp -->
 
-<img align=left src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewon3588">
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewon3588)](https://solved.ac/jaewon3588)<br>
 
 
 
